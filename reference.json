@@ -1,0 +1,18 @@
+{
+  "eta": 3.0,
+  "T": 8.0,
+  "r": 4,
+  "K": 3,
+  "d": 128,
+  "D": 256,
+  "tau": 1.0,
+  "dropout": 0.5,
+  "lr": 0.001,
+  "lr_min": 0.0001,
+  "epsilon": 0.001,
+  "grad_clip": 1.0,
+  "batch_size": 1024,
+  "epochs": 100,
+  "patience": 50,
+  "seed": 42
+}
